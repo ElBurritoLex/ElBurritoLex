@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElBurritoLex
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python. 
-- 💞️ I’m looking to collaborate on projects with more individuals if need to. 
+- 💞️ I’m looking to collaborate on projects with more individuals. 
 - 📫 How to reach me: email: @el.burrito.lex@gmail.com
 
 <!---
